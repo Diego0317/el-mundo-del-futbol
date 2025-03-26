@@ -1,0 +1,8 @@
+body{margin:auto;width:900px;heigth:1750px}
+.a{width:900px;height:350px;background:green}
+.b{width:900px;height:150px;background:orange;float:left}
+.c{width:450px;height:250px;background:yellow;float:left}
+.d{width:450px;height:250px;background:pink;float:left}
+.e{width:450px;height:350px;background:red;float:left}
+.f{width:450px;height:350px;background:orange;float:left}
+.g{width:900px;height:100px;background:green;float:left}
